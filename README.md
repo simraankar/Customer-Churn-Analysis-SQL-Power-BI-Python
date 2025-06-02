@@ -2,16 +2,10 @@
 <br>
 
 #### by Simran Karmali
-<br>
-<br>
-
 ### Project Overview
-<br>
 The Customer Churn Analysis aims to analyze customer churn behavior in a telecom company using a blend of SQL Server, Python, and Power BI. The goal is to identify key factors influencing churn, build a predictive machine learning model, and present actionable insights through an interactive dashboard.
-<br>
 
 ### Dataset
-<br>
 The dataset contains detailed information about customers, their services, account details, and churn status. Below is a summary of the key features:
 
 **Recent Customer Churn**: Indicates whether the customer has discontinued the service within the last month (captured in the Churn column).
